@@ -17,7 +17,7 @@ void main() {
   // tidak bisa di dekrelasikan
   // array1 = [0,0,0];
 
-  // tidak bisa di ubah
+  // tidak bisa di ubah maupun dideklarasikan
   // array2 = [0,0,0];
   // array2[0] = 10;
 
